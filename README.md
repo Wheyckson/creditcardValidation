@@ -1,6 +1,18 @@
-# Creditcard
+<h4 align="center"> 
+	🚀 Angular Card 🚀 
+</h4> 
+
+# # About
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+
+<h1 align="center">
+    <img alt="cardAng" title="#cardAng" src="./src/assets/creditcard.gif" width="800"/> 
+</h1>
+
+## 🛠 Technologies
+
+This project was developed in Angular and also in bulma-css;
 
 ## Development server
 
