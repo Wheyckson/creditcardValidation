@@ -7,7 +7,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
 <h1 align="center">
-    <img alt="cardAng" title="#cardAng" src="./src/assets/creditcart.gif.gif" width="800"/> 
+    <img alt="cardAng" title="#cardAng" src="./src/assets/creditcart.gif" width="800"/> 
 </h1>
 
 ## 🛠 Technologies
